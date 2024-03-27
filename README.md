@@ -1,6 +1,7 @@
 # Artifacts
 
 **Manuscript**: "Proving correctness for SQL implementations of OCL constraints"
+
 **Authors**: Hoang Nguyen and Manuel Clavel
 
 ## Table of Contents
